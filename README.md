@@ -8,5 +8,3 @@ Left Heart Segmentation in Echocardiographic  Images Using DNN Model
 - NN-UNet achieved 96.7% accuracy, 0.954 Dice score, and 4.5 Hausdorff distance, outperforming other architectures.
 
 - Evaluated using clinical metrics: MAE (5.9), Jaccard Index (0.915), and Correlation Coefficient (0.978).
-
-![Uploading Screenshot 2025-05-12 at 9.05.45 AM.png…]()
